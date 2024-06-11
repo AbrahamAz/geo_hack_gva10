@@ -207,7 +207,7 @@ with col12:
 
     st.write('''The heat map visually represents the distribution of extreme heat within the city, highlighting areas with varying temperature intensities. Warmer colors, such as red and orange, indicate higher temperatures and greater heat risk, while cooler colors, such as blue and green, represent lower temperatures and lesser risk.
     ''')
-
+    
     st.subheader("Heat Risk Index")
 
     st.write('''A heat risk index is a composite measure that quantifies the potential harm of high temperatures to a given population or area. It is created by integrating three key components:''')
@@ -246,9 +246,9 @@ Comparison with Averages: Comparisons of historical temperatures with long-term 
 
     st.write('''Users can leverage the historical temperature data to:
 
-Understand Long-Term Changes: Gain insights into how the city's climate has evolved, helping to predict future trends.
-Inform Planning and Policy: Use historical data to support urban planning decisions and the development of heat mitigation strategies.
-Raise Awareness: Educate the community and stakeholders about historical temperature patterns and their implications for future heat resilience.''')
+    Understand Long-Term Changes: Gain insights into how the city's climate has evolved, helping to predict future trends.
+    Inform Planning and Policy: Use historical data to support urban planning decisions and the development of heat mitigation strategies.
+    Raise Awareness: Educate the community and stakeholders about historical temperature patterns and their implications for future heat resilience.''')
     st.divider()
 st.markdown(''' © 2024 Global Heat Resilience Service. All Rights Reserved. For more information, please contact us at:
 
