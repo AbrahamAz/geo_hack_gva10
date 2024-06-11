@@ -202,7 +202,7 @@ st.divider()
 
 col11, col12, col13 = st.columns([1,5,1])
 
-with st.container():  # Use a container to control the width
+with col12
     st.header("Methodology")
 
     st.write('''The heat map visually represents the distribution of extreme heat within the city, highlighting areas with varying temperature intensities. Warmer colors, such as red and orange, indicate higher temperatures and greater heat risk, while cooler colors, such as blue and green, represent lower temperatures and lesser risk.
