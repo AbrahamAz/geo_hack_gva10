@@ -212,9 +212,7 @@ Exposure: This accounts for the degree to which individuals or communities are e
 
 Vulnerability: This captures the susceptibility of individuals or communities to the adverse effects of heat, taking into account factors like age, health conditions, socioeconomic status, and access to resources.
 
-By combining data on these three components, a heat risk index provides a comprehensive assessment of the overall risk posed by high temperatures. This index can then be used to identify vulnerable populations and areas, inform targeted interventions and adaptation strategies, and monitor the effectiveness of heat mitigation efforts over time.''')
-
-st.markdown(''' 
+By combining data on these three components, a heat risk index provides a comprehensive assessment of the overall risk posed by high temperatures. This index can then be used to identify vulnerable populations and areas, inform targeted interventions and adaptation strategies, and monitor the effectiveness of heat mitigation efforts over time.''') st.markdown(''' 
     
 ## How to Interpret the Heat Map
                 
